@@ -8,3 +8,12 @@ Describe the differences between forks, clones, and branches. When would you use
 - 	If you want to copy other github repository to your own, you can use forks to do that.
 	If you want to copy other github repository to your local repository, you can use clone to do that.
 	If you want to try something but don't want to ruin the original code, you can use branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- Because your github repository can track your last update.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+- You can send your code via Facebook, Google Drive, etc. but it's hard for your collaborator to find what you have changed.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- When you want to add some new feature and not sure it will work, you can separate it and make a pull request to share your feature and give some feedback from your collaborator. Finally if it work well, you just add it into master.
